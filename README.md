@@ -6,7 +6,7 @@ Lunch n' Learn Jupyter notebook - Convolutional Neural Network crash course.
 * Install Donker (https://docs.docker.com/get-docker/)
 * Clone and pull this repo.
 * Run the following in your local repo:
-```docker run -d -p 8888:8888 -v $(pwd):/srv gw000/keras-full``` Password is 'keras' (Uses this container: https://docs.docker.com/get-docker/)
+```docker run -d -p 8888:8888 -v $(pwd):/srv gw000/keras-full``` Password is 'keras' (Uses this container: https://hub.docker.com/r/gw000/keras-full/)
 
 In your browser, go to http://localhost:8888/notebooks/train.ipynb
 
