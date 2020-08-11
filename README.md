@@ -1,7 +1,7 @@
 # cnn_crash_course
 Lunch n' Learn Jupyter notebook - Convolutional Neural Network crash course.
 
-#Installation
+# Installation
 
 * Install Donker (https://docs.docker.com/get-docker/)
 * Clone and pull this repo.
