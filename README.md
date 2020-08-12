@@ -19,4 +19,6 @@ PlaidML makes stuff run much faster on a macbook.  If you want to use PlaidML, y
 
 `conda env create -f environment.yml`
 
-You can then run the example in `/train.py`
+Next, activate the environment `conda activate plaidml`
+
+You can then run the example in `/train.py`:  `python train.py`
